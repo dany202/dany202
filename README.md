@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dany202
-- 👀 I’m interested in ...
+- 👀 I’m interested in networking enginering 
 - 🌱 I’m currently learning ...
 - 💞️ 
 
